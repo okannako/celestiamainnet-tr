@@ -1,4 +1,4 @@
-# Celestia Mainnet Node Kurulumları
+<img width="2752" height="1536" alt="mainnettr" src="https://github.com/user-attachments/assets/8862a896-db75-435c-9ef1-cdc070e7ccec" />
 
 * Celestia Mainnet Beta ağında bu kılavuz içerisinde adım adım ilerleyerek Validator, Fibre, Bridge ve Light Node çalıştırabilirsiniz. Kılavuz güncel sürümlere göre hazırlanmıştır(celestia-app v10.5.0, celestia-node v0.34.4).
 
