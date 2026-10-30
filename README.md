@@ -1,6 +1,6 @@
 ![208](https://github.com/okannako/celestiamainnet/assets/73176377/a36d1b99-80be-47c6-869b-d32c2f5790dd)
 
-* Celestia Mainnet Beta ağında bu kılavuz içerisinde adım adım ilerleyerek Mainnet Beta ağında Validator, Bridge, Full Storage ve Light Node çalıştırabilirsiniz.
+* Celestia Mainnet Beta ağında bu kılavuz içerisinde adım adım ilerleyerek Mainnet Beta ağında Validator, Fibre, Bridge, Full Storage ve Light Node çalıştırabilirsiniz.
 
 * Kurulumn sırasında veya sonrasında bir şey sormak isterseniz bana Telegram, Mail ve Discord yoluyla ulaşabirsiniz.
 
