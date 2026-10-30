@@ -1,8 +1,10 @@
 ![208](https://github.com/okannako/celestiamainnet/assets/73176377/a36d1b99-80be-47c6-869b-d32c2f5790dd)
 
-* Celestia Mainnet Beta ağında bu kılavuz içerisinde adım adım ilerleyerek Mainnet Beta ağında Validator, Fibre, Bridge, Full Storage ve Light Node çalıştırabilirsiniz.
+* Celestia Mainnet Beta ağında bu kılavuz içerisinde adım adım ilerleyerek Validator, Fibre, Bridge ve Light Node çalıştırabilirsiniz. Kılavuz güncel sürümlere göre hazırlanmıştır.
 
-* Kurulumn sırasında veya sonrasında bir şey sormak isterseniz bana Telegram, Mail ve Discord yoluyla ulaşabirsiniz.
+* Full Storage Node tipi celestia-node'dan kaldırıldı. Bütün veriyi tutmak isteyenler Bridge Node'u --archival ile çalıştırabilir.
+
+* Kurulum sırasında veya sonrasında bir şey sormak isterseniz bana Telegram, Mail ve Discord yoluyla ulaşabilirsiniz.
 
 ## Validator Node Minimum Sistem Gereksinimleri
 
